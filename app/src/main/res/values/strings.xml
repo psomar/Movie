@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="person_text">Актерский состав:</string>
+    <string name="content_imageViewPerson">Изоображение актера</string>
+    <string name="trailer_description">Просмотреть трейлер фильма</string>
+    <string name="poster_description">Постер фильма</string>
+</resources>
